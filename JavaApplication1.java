@@ -6,7 +6,7 @@
 
 /**
  *
- * @author dollie
+ * @author Diana Okerio
  */
 public class withdrawal extends javax.swing.JFrame {
 
@@ -246,6 +246,9 @@ public class withdrawal extends javax.swing.JFrame {
             }
         });
     }
+private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {                                         
+        // TODO add your handling code here:
+    }                                        
 
     // Variables declaration - do not modify                     
     private javax.swing.JComboBox jComboBox1;
