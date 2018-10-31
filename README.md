@@ -7,4 +7,4 @@ THE TECHS
 -Tony Tumwet
 -Ian Odanga
 Overview
-ATM management system that handles clients managers and transactions.
+Banking management system that handles clients managers and transactions.
